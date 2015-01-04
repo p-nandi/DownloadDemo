@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DownloadDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_Download">Download</string>
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+    </string-array>
+    
+    <string-array name="imageUrls">
+        <item>http://www.bambooweb.info/images/bamboo/2005_Bamboo_Shooting_Season__Unknown_18.jpg</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+    </string-array>
+</resources>
